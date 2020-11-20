@@ -3,7 +3,7 @@
 ## Motivation
 Neural network trained on data garnered from the Auditor Office of India to build a predictor for classifying suspicious firms.
 
-The goal of the research is to help the auditors by building a classification model that can predict the fraudulent firm on the basis the present and historical risk factors[1].
+The goal of the research is to help the auditors by building a classification model that can predict fraudulent firms on the basis of present and historical risk factors[1].
 
 ## Neural Network Topology and Results Summary
 The binary-crossentropy loss function was leveraged along with the rmsprop optimizer for this classification problem.
