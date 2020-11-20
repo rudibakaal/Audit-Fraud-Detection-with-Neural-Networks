@@ -10,7 +10,7 @@ The binary-crossentropy loss function was leveraged along with the rmsprop optim
 
 ![model](https://user-images.githubusercontent.com/48378196/96961401-4be81500-1550-11eb-9cd2-4e0f682c3b56.png)
 
-By the 55th epoch, binary and validation accuracy both reach 98% accuracy in correctly classifying fraudulent firms. 
+By the 55th epoch, binary and validation classifiers both reach 98% accuracy in correctly identifying fraudulent firms, outperforming the neural network result in the original study by ~20%. 
 
 ![audit](https://user-images.githubusercontent.com/48378196/99758466-ddde4000-2b45-11eb-8502-2efb1333b838.png)
 
