@@ -15,7 +15,7 @@ By the 55th epoch, binary and validation classifiers both reach 98% accuracy in 
 ![audit](https://user-images.githubusercontent.com/48378196/99758466-ddde4000-2b45-11eb-8502-2efb1333b838.png)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) 
+MIT
 
 ## References
 [1] Hooda, Nishtha, Seema Bawa, and Prashant Singh Rana. 'Fraudulent Firm Classification: A Case Study of an External Audit.' Applied Artificial Intelligence 32.1 (2018): 48-64.
